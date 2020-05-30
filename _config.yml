@@ -1,1 +1,12 @@
+# --- Basic options --- #
+
+# Name of website
+title: 爱吃烤鱼的小伙伴
+
+# Short description of your site
+description: 生命就是等待正确的行动时机
+
+# Your name to show in the footer
+author: 亮亮
+
 theme: jekyll-theme-architect

@@ -1,35 +1,93 @@
-# Welcome to GitHub Pages
+# 欢迎来看望爱吃烤鱼的小伙伴
 
-You can use the [editor on GitHub](https://github.com/yibiubiu666/yibiubiu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+New York is 3 hours ahead of California,
 
-## Markdown
+纽约时间比加州时间早三个小时，
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+but it does not make California slow.
 
-```markdown
-Syntax highlighted code block
+但加州时间并没有变慢。
 
-# Header 1
-## Header 2
-### Header 3
+Someone graduated at the age of 22,
 
-- Bulleted
-- List
+有人22岁就毕业了，
 
-1. Numbered
-2. List
+but waited 5 years before securing a good job!
 
-**Bold** and _Italic_ and `Code` text
+但等了五年才找到好的工作！
 
-[Link](url) and ![Image](src)
-```
+Someone became a CEO at 25,
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+有人25岁就当上CEO，
 
-## Jekyll Themes
+and died at 50.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yibiubiu666/yibiubiu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+却在50岁去世。
 
-## Support or Contact
+While another became a CEO at 50,
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+也有人迟到50岁才当上CEO，
+
+and lived to 90 years.
+
+然后活到90岁。
+
+Someone is still single,
+
+有人依然单身，
+
+while someone else got married.
+
+同时也有人已婚。
+
+Obama retires at 55,
+
+奥巴马55岁就退休，
+
+but Trump starts at 70.
+
+川普70岁才开始当总统。
+
+Absolutely everyone in this world works based on their Time Zone.
+
+世上每个人本来就有自己的发展时区。
+
+People around you might seem to go ahead of you,
+
+身边有些人看似走在你前面，
+
+some might seem to be behind you.
+
+也有人看似走在你后面。
+
+But everyone is running their own RACE, in their own TIME.
+
+但其实每个人在自己的时区有自己的步程。
+
+Don’t envy them or mock them.
+
+不用嫉妒或嘲笑他们。
+
+They are in their TIME ZONE, and you are in yours!
+
+他们都在自己的时区里，你也是！
+
+Life is about waiting for the right moment to act.
+
+生命就是等待正确的行动时机。
+
+So, RELAX.
+
+所以，放轻松。
+
+You’re not LATE.
+
+你没有落后。
+
+You’re not EARLY.
+
+你没有领先。
+
+You are very much ON TIME, and in your TIME ZONE Destiny set up for you.
+
+在命运为你安排的属于自己的时区里，一切都准时。

@@ -14,7 +14,7 @@ Someone graduated at the age of 22,
 
 有人22岁就毕业了，
 
-but waited 5 years before securing a good job!
+but waited 5 years before securing [a good job](browser.md)!
 
 但等了五年才找到好的工作！
 
